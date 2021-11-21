@@ -4,4 +4,4 @@ Script to create word clouds for each card class based on [Arkham LCG](https://w
 ## Current sample wordclouds
 
 Guardian, Mystic, Rogue, and Seeker wordclouds with colors and images. Survivor wordcloud in base shape with Survivor colors:
-https://github.com/SSimon16/arkham-wordclouds/blob/main/wordclouds/wordclouds_sample1.png
+![Wordcloud of most common words in player cards for the 5 Arkham LCG classes](https://github.com/SSimon16/arkham-wordclouds/blob/main/wordclouds/wordclouds_sample1.png)
